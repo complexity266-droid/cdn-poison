@@ -1,7 +1,7 @@
 # cdn-poison
 
 
-A Python tool that passively detects web cache deception vulnerabilities through HTTP header analysis. No exploitation — detection only.
+A Python script that passively detects web cache deception vulnerabilities through HTTP header analysis. No exploitation — detection only.
 
 Built as a hands-on exploration of [PortSwigger's web cache deception research](https://portswigger.net/web-security/web-cache-deception) and the [Cloudflare CDN deanonymization writeup] that went viral in 2024.
 
