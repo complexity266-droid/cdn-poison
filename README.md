@@ -57,7 +57,7 @@ Cache-Control: private, no-store
 
 ```bash
 git clone https://github.com/complexity266/cache-deception-detector
-cd cache-deception-detector
+cd cdn-poison
 pip install requests rich
 ```
 
