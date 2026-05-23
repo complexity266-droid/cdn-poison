@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-"""
-Web Cache Deception Detector — CLI
-Usage:
-    python cli.py https://example.com
-    python cli.py discord.com github.com vercel.com
-"""
-
 import sys
 import time
 import threading
