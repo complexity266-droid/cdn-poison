@@ -6,7 +6,7 @@ A Python script that passively detects web cache deception vulnerabilities throu
 Built as a hands-on exploration of [PortSwigger's web cache deception research](https://portswigger.net/web-security/web-cache-deception) and the [Cloudflare CDN deanonymization writeup] that went viral in 2024.
 
 ---
-(NOTE : Kindly Remove the shebang from the pyhton file if executing on windows operating system)
+(NOTE : Kindly Remove the shebang from the python file if executing on windows operating system)
 ## What is Web Cache Deception?
 
 A CDN like Cloudflare sits between users and origin servers, caching static files (`.css`, `.js`, `.png`) to serve them faster. The attack exploits a mismatch between what the **origin server** thinks it's serving and what the **CDN thinks it should cache**.
